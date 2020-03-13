@@ -36,7 +36,7 @@ int kiemtra(long d1, long d2, long d3)
 	if (d3 < k) return 0;
 	return 1;
 }
-main()
+int main()
 {
 	d1 = 0; d2 = 0; d3 = 0;
 	dem();
